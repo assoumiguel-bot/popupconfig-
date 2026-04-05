@@ -1,5 +1,8 @@
 {
     "packageName": "B0DV876W7Y",
     "imageUrl": "https://m.media-amazon.com/images/I/71XAr+QRC5L.png",
-    "isActive": true
+    "isActive": true,
+    "message": "Check out this amazing deal!",
+    "deepLink": "https://www.amazon.com/dp/B0DV876W7Y",
+    "buttonText": "Shop Now"
 }
