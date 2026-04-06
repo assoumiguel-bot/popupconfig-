@@ -1,8 +1,11 @@
 {
-    "packageName": "B0DFXKWXCN",
-    "imageUrl": "https://m.media-amazon.com/images/I/71XAr+QRC5L.png",
-    "isActive": true,
-    "message": "Check out this amazing deal!",
-    "deepLink": "amzn://apps/android?asin=B0DFXKWXCN&initiatePurchaseFlow=true",
-    "buttonText": "Shop Now"
+  "isActive": true,
+  "ads": [
+    {
+      "imageUrl": "https://m.media-amazon.com/images/I/71XAr+QRC5L.png",
+      "message": "Check out this amazing deal!",
+      "deepLink": "amzn://apps/android?asin=B0DFXKWXCN",
+      "buttonText": "Shop Now"
+    }
+  ]
 }
