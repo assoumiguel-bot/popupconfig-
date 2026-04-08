@@ -2,7 +2,7 @@
   "isActive": true,
   "ads": [
     {
-      "imageUrl": "",
+      "imageUrl": "https://raw.githubusercontent.com/assoumiguel-bot/popupconfig-/main/game_banner.png",
       "message": "",
       "deepLink": "amzn://apps/android?asin=B0DFXKWXCN&initiatePurchaseFlow=true",
       "buttonText": ""
